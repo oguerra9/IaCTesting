@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct  8 23:40:31 2020
+Created on Mon March  6 2023
 
-@author: mehedi.md.hasan
+@author: Olivia Guerra
 """
 
 from detectors.yaml_detectors.skip_linting_yaml_detector import SkipLintingYamlDetector
